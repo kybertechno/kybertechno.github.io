@@ -47,14 +47,14 @@
   transform: none !important;
 }
 .button {
-  color: transparent;
+  color: var(--dl-color-secondary-400);
   display: inline-block;
   padding: 0.5rem 1rem;
   font-family: Open Sans;
-  border-color: transparent;
+  border-color: var(--dl-color-secondary-400);
   border-width: 1px;
   border-radius: 4px;
-  background-color: transparent;
+  background-color: var(--dl-color-gray-white);
 }
 .list {
   width: 100%;
